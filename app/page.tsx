@@ -43,18 +43,25 @@ export default function Portfolio() {
   ]
 
   const skills = [
+    "Java",
+    "HTML",
+    "CSS",
     "JavaScript",
     "TypeScript",
     "React",
     "Next.js",
     "Node.js",
+    "Blockchain",
     "Python",
     "PostgreSQL",
     "MongoDB",
-    "AWS",
+    "MySQL",
+    "Design Thinking",
+    "Critical Thinking",
+    "Problem Solving",
     "Docker",
     "Git",
-    "Figma",
+    
   ]
 
   return (
@@ -247,7 +254,7 @@ export default function Portfolio() {
       <footer className="py-8 px-6 border-t border-border">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-muted-foreground">
-            © 2024 Sarah Chen. Crafted with <Heart className="w-4 h-4 inline text-primary" /> and lots of coffee.
+            © 2025 Amidat Alade. Crafted with <Heart className="w-4 h-4 inline text-primary" /> and lots of coffee.
           </p>
         </div>
       </footer>
